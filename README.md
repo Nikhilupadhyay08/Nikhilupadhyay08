@@ -87,6 +87,24 @@ Features:
 
 ---
 
+### 🔹 TreeLocator
+A web-based application for locating and managing tree data efficiently.
+
+Tech Stack:
+- **React.js**
+- Node.js / Express
+- MongoDB (if used, adjust if needed)
+
+Features:
+- Tree location tracking
+- Interactive map-based UI
+- Data visualization and management
+- User-friendly interface for environmental insights
+
+🔗 https://github.com/Nikhilupadhyay08/TreeLocator
+
+---
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Nikhilupadhyay08&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
